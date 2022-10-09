@@ -1,0 +1,15 @@
+D:\C#Bootcamp\EjercicioSesion3\bin\Debug\net6.0\EjercicioSesion3.exe
+D:\C#Bootcamp\EjercicioSesion3\bin\Debug\net6.0\EjercicioSesion3.deps.json
+D:\C#Bootcamp\EjercicioSesion3\bin\Debug\net6.0\EjercicioSesion3.runtimeconfig.json
+D:\C#Bootcamp\EjercicioSesion3\bin\Debug\net6.0\EjercicioSesion3.dll
+D:\C#Bootcamp\EjercicioSesion3\bin\Debug\net6.0\EjercicioSesion3.pdb
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\EjercicioSesion3.csproj.AssemblyReference.cache
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\EjercicioSesion3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\EjercicioSesion3.AssemblyInfoInputs.cache
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\EjercicioSesion3.AssemblyInfo.cs
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\EjercicioSesion3.csproj.CoreCompileInputs.cache
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\EjercicioSesion3.dll
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\refint\EjercicioSesion3.dll
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\EjercicioSesion3.pdb
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\EjercicioSesion3.genruntimeconfig.cache
+D:\C#Bootcamp\EjercicioSesion3\obj\Debug\net6.0\ref\EjercicioSesion3.dll
